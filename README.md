@@ -1,4 +1,6 @@
-…
+## Reference about *backlog*
+
+* [A sample format for a spreadsheet-based product backlog](http://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog)
 
 ---
 
